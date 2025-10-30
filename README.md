@@ -13,30 +13,30 @@ This project provides a data-driven analysis of aviation accidents to help stake
 # Data understanding
 Analysis sourced from [Aviation_Data.csv] dataset provided by the National Transportation Saftey Board containing aviation accidents data from 1962-2023 in the United States and international waters.
 # Key data fields
--Accident.Number
--Event.Date
--Location
--Amateur.Built
--Weather.Condition
--Aircraft.damage
--Purpose.of.flight
--Total.Fatal.injuries
--Total.Serious
--Total.Minor.Injuries
--Total.uninjured
--Make
+- Accident.Number
+- Event.Date
+- Location
+- Amateur.Built
+- Weather.Condition
+- Aircraft.damage
+- Purpose.of.flight
+- Total.Fatal.injuries
+- Total.Serious
+- Total.Minor.Injuries
+- Total.uninjured
+- Make
 # Analysis
 1. Data cleaning 
-   Removing duplicated entries
-   Handlig missing data
-   groupby Accident.Number by 5years in Event.Date
+   - Removing duplicated entries
+   - Handlig missing data
+   - groupby Accident.Number by 5years in Event.Date
 2. Modelling
-   Exploratory Data Analysis
-   Risk profiling
+   # Exploratory Data Analysis
+   # Risk profiling
 3. Evaluation
-   Data visualisation
+   # Data visualisation
 # Conclusion
-  Recommendation     
+  # Recommendation     
 
 
 
